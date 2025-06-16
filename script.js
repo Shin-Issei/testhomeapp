@@ -12,5 +12,6 @@
     - Store links somewere that I can easily add and delete from
     - Create custom themes (write something that consumes the picked colors form 
     a variable or object store or something like that)
+    - dynamic background images? select from uploaded list?
 
 */
